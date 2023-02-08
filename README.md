@@ -1,11 +1,13 @@
 **dataminister**
 
-build 1011 ( 18/07/2022 ) <em><span style="color:green">in progress</span></em>
+build 1012 ( 07/02/2023 )
+- Incluído ano (YYYY) no nome dos arquivos.
+- Permitido mover o recurso 'Info' para outro monitor.
+- Adicionado confirmação no botão 'Close'.
 
+build 1011 ( 18/07/2022 )
 - Alterado menu principal para o tipo MenuStrip.
-
-
-
+- Configurado tabela de cores do menu.
 
 build 1010 ( 18/07/2022 )
 - criação de arquivos: bkp.js, bkp.css
@@ -14,7 +16,6 @@ build 1010 ( 18/07/2022 )
 
 build 1009 ( 15/05/2022 )
 - Quando é criado a pasta na tela 'Info' também é criado dois arquivos auxiliares, 'desc.txt' e 'bkp.cs' .
-
 
 build 1008 ( 12/03/2022 )
 - Adicionado tecla de atalho para salvar ( Control + S ).	
@@ -40,3 +41,6 @@ old updates
 - 15/07/2021 - Adicionado TextBox no menu superior com o caminho da pasta de armazenamento dos arquivos.
 - 27/06/2021 - Alterado layout de abertura dos formulários. Removido a troca por abas para abertura de formulário independente.
 - 23/06/2021 - Ao clicar no botão Lock ou Unlock na aba 'Info x4' o botão de capturar imagem também tem seu atributo Enabled alterado.
+
+<br>
+<em>first build: 18/04/2021</em>
